@@ -50,4 +50,6 @@
 #define MK_C_OFFSET_2 11
 #define MK_C_INTERVAL_2 16
 
+#define IGNORE_MOD_TAP_INTERRUPT
+
 #endif
