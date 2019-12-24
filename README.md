@@ -3,7 +3,7 @@
 Character|Character name|Mapped to|Description
 ---|---|---|---
 @|at sign|a|**a**t sign
-\|backslash|b|**b**ackslash
+&#92;|backslash|b|**b**ackslash
 :|colon|c|**c**olon
 $|dollar sign|d|**d**ollar sign
 =|equals sign|e|**e**quals sign
